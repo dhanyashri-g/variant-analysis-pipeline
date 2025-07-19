@@ -1,5 +1,8 @@
 # 🧬 Variant Analysis Pipeline (Python – Mock Project)
 
+![Python](https://img.shields.io/badge/Built%20With-Python-blue?style=flat&logo=python)
+![Project Status](https://img.shields.io/badge/Status-Demo%20Project-success?style=flat)
+
 This repository presents a mock variant analysis pipeline simulating key steps of DNA sequencing data analysis using Python. It integrates four main components:
 
 1. **Quality Control** – Simulated FastQC
