@@ -1,0 +1,1 @@
+Chromosome: 1, Position: 12345, REF: A, ALT: T, Effect: missense_variant
